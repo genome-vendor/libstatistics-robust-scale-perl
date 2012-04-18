@@ -1,0 +1,18 @@
+--- #YAML:1.0
+name:                Statistics-Robust
+version:             0.01
+abstract:            A Collection of Robust Statistical Methods
+license:             ~
+author:              
+    - Walter Szeliga <szeliga@colorado.edu>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    Math::CDF:                     0.1
+    Math::Random:                  0
+    Math::Round:                   0
+    Test::More:                    0
+    Test::Number::Delta:           0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
